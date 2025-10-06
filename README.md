@@ -20,3 +20,13 @@ and basic interactivity — all using beginner-friendly tools.
 - **CSS3** – styling and responsive layout (media queries)  
 - **JavaScript (Vanilla)** – image slider and hamburger menu  
 - **GitHub Pages** – hosting and deployment  
+
+---
+
+## 🚀 Live Demo
+Wbsite will be available at:  https://erica-1i.github.io/starbucks-site/
+
+---
+
+### 📝 Notes
+This is a student project created for learning purposes and is not affiliated with Starbucks.
